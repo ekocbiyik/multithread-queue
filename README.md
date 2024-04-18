@@ -1,2 +1,2 @@
-# multithrad-queue
-multithrad tasks with BlockingDeque
+# multithread-queue
+multithread tasks with BlockingDeque
